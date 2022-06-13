@@ -1,0 +1,62 @@
+Plant Watering System Data Log:
+
+0:
+Date: 1/24/2021
+Time: 9:30:00
+Condition: Moist
+No Action Taken
+
+1:
+Date: 1/24/2021
+Time: 9:30:05
+Condition: Dry
+Watering...
+
+2:
+Date: 1/24/2021
+Time: 9:30:10
+Condition: Moist
+No Action Taken
+
+3:
+Date: 1/24/2021
+Time: 9:30:15
+Condition: Dry
+Watering...
+
+4:
+Date: 1/24/2021
+Time: 9:30:20
+Condition: Dry
+Watering...
+
+5:
+Date: 1/24/2021
+Time: 9:30:25
+Condition: Dry
+Watering...
+
+6:
+Date: 1/24/2021
+Time: 9:30:30
+Condition: Moist
+No Action Taken
+
+7:
+Date: 1/24/2021
+Time: 9:30:35
+Condition: Dry
+Watering...
+
+8:
+Date: 1/24/2021
+Time: 9:30:40
+Condition: Dry
+Watering...
+
+9:
+Date: 1/24/2021
+Time: 9:30:45
+Condition: Moist
+No Action Taken
+
